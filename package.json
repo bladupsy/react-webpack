@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "introducción a react con webpack",
+  "main": "index.js",
+  "dependencies": {
+    "loose-envify": "^1.4.0",
+    "js-tokens": "^4.0.0",
+    "scheduler": "^0.22.0",
+    "react-dom": "^18.1.0",
+    "react": "^18.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "webpack"
+  ],
+  "author": "bladupsy",
+  "license": "ISC"
+}
